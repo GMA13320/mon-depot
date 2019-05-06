@@ -1,0 +1,5 @@
+#Commentaire
+config.yaml
+/logs
+#sauf le fichier .gitkeep
+!/logs/.gitkeep
