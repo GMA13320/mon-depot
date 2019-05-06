@@ -1,5 +1,5 @@
 #Commentaire
 config.yaml
 /logs
-#sauf le fichier .gitkeep
+#sauf le fichier .gitkeep attention mettre après /logs
 !/logs/.gitkeep
